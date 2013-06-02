@@ -1,0 +1,6 @@
+# other
+*.iws
+
+# idea project files
+*.iml
+.idea
